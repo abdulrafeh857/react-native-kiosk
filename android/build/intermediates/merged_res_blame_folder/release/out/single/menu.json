@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.reactnativekiosk.react-native-kiosk-merged_res-20:/menu/example_menu.xml",
+        "source": "com.reactnativekiosk.react-native-kiosk-core-1.7.0-10:/menu/example_menu.xml"
+    },
+    {
+        "merged": "com.reactnativekiosk.react-native-kiosk-merged_res-20:/menu/example_menu2.xml",
+        "source": "com.reactnativekiosk.react-native-kiosk-core-1.7.0-10:/menu/example_menu2.xml"
+    }
+]

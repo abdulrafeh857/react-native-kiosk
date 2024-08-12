@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.reactnativekiosk.react-native-kiosk-merged_res-20:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.reactnativekiosk.react-native-kiosk-core-1.7.0-10:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.reactnativekiosk.react-native-kiosk-merged_res-20:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.reactnativekiosk.react-native-kiosk-core-1.7.0-10:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.reactnativekiosk.react-native-kiosk-merged_res-20:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.reactnativekiosk.react-native-kiosk-core-1.7.0-10:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.reactnativekiosk.react-native-kiosk-merged_res-20:/layout-v21/notification_action.xml",
+        "source": "com.reactnativekiosk.react-native-kiosk-core-1.7.0-10:/layout-v21/notification_action.xml"
+    }
+]

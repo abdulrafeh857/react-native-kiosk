@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.reactnativekiosk.react-native-kiosk-merged_res-20:/layout-v16/notification_template_custom_big.xml",
+        "source": "com.reactnativekiosk.react-native-kiosk-core-1.7.0-10:/layout-v16/notification_template_custom_big.xml"
+    }
+]
