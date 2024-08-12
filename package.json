@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/luiszampieron/react-native-kiosk",
-  "author": "Luis Zampieron <luisfernandozampieron@gmail.com> (https://github.com/luiszampieron/)",
+  "repository": "https://github.com/abdulrafeh857/react-native-kiosk",
+  "author": "Abdul Rafeh <abdulrafeh857@gmail.com> (https://github.com/abdulrafeh857/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/luiszampieron/react-native-kiosk/issues"
+    "url": "https://github.com/abdulrafeh857/react-native-kiosk/issues"
   },
-  "homepage": "https://github.com/luiszampieron/react-native-kiosk#readme",
+  "homepage": "https://github.com/abdulrafeh857/react-native-kiosk#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
